@@ -10,4 +10,4 @@ Hold shift to increase run speed and jump higher.
 collecting coins and killing enemies awards points,
 also at end of level time remaing is converted into score.
 
-Game is created to play inside the unity editor on option "Standalone (1024x768)
+Game is created to play inside the unity editor on option "Standalone (1024x768)"
