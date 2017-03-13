@@ -1,6 +1,6 @@
 Controls for game:
 
-move right - A 
+move left - A 
 move right - D
 jump - space
 
